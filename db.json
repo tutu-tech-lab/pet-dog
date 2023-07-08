@@ -1,0 +1,67 @@
+{
+    "dogs": [
+        {
+            "id": 4,
+            "breed": "Doberman",
+            "age": "5 dog years",
+            "image": "doberman.jpg",
+            "message": "Congratulations on your magnificent Doberman!"
+        },
+        {
+            "id": 1,
+            "breed": "Labrador Retriever",
+            "age": "3 dog years",
+            "image": "labrador.jpg",
+            "message": "Congratulations on your adorable Labrador Retriever!"
+        },
+        {
+            "id": 2,
+            "breed": "German Shepherd",
+            "age": "2 dog years",
+            "image": "german.jpg",
+            "message": "Congratulations on your beautiful German Shepherd!"
+        },
+        {
+            "id": 3,
+            "breed": "Golden Retriever",
+            "age": "4 dog years",
+            "image": "golden.jpg",
+            "message": "Congratulations on your lovely Golden Retriever!"
+        },
+        {
+            "id": 5,
+            "breed": "Beagle",
+            "age": "1 dog year",
+            "image": "beagle.jpg",
+            "message": "Congratulations on your adorable Beagle!"
+        },
+        {
+            "id": 6,
+            "breed": "Poodle",
+            "age": "6 dog years",
+            "image": "poodle.jpg",
+            "message": "Congratulations on your elegant Poodle!"
+        },
+        {
+            "id": 7,
+            "breed": "Siberian Husky",
+            "age": "2 dog years",
+            "image": "husky.jpg",
+            "message": "Congratulations on your stunning Siberian Husky!"
+        },
+        {
+            "id": 8,
+            "breed": "Boxer",
+            "age": "3 dog years",
+            "image": "boxer.jpg",
+            "message": "Congratulations on your playful Boxer!"
+        },
+        {
+            "id": 9,
+            "breed": "Dachshund",
+            "age": "4 dog years",
+            "image": "dachshund.jpg",
+            "message": "Congratulations on your cute Dachshund!"
+        }
+    ]
+}

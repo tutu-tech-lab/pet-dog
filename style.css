@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    background:orangered;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.view-dogs {
+    width: 80%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 24rem;
+    height: 80vh;
+    background: #000;
+    border-radius: .3rem;
+    color: orangered;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    padding: 2rem;
+}
+
+.img-div {
+    width: 100%;
+    height: 65%;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+h2,
+p {
+    font-size: 1.2em;
+}
+
+.adopt {
+    padding: .6rem 1rem;
+    background:orangered;
+    color: #000;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+
+
+
+
+.dogs-list {
+    height: 75%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: start;
+    padding: 2rem 1.5rem;
+}
+
+.form {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.input {
+    width: 95%;
+    padding: .6rem 1rem;
+}
+
+.submit {
+    padding: .5rem .8rem;
+    font-size: 1rem;
+    background: #000;
+    color: #008cff;
+}
+
+.dogs-list h1 {
+    font-size: 2.5rem;
+}
+
+.dogs-list ul {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+
+.dogs-list ul li {
+    list-style-type: none;
+    color: #000;
+    font-weight: bold;
+    padding: .6rem 1rem;
+    cursor: pointer;
+    font-size: 1.3rem;
+    width: 100%;
+}
